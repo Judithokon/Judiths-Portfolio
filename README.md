@@ -1,2 +1,2 @@
 # Judith's Portfolio
-A walkthrough of my projects
+A walkthrough of my data projects
